@@ -25,7 +25,7 @@ class _Home_ScreenState extends State<Home_Screen> {
 
     return Scaffold(
       body: Center(
-        child: Text("welcome to my app")
+        child: Text("welcome to my app here")
       ),
     );
   }
